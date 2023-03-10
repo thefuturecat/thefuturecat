@@ -8,7 +8,7 @@ Currently I have been programming in <b>HTML</b>, <b>CSS</b>, <b>JS</b>, <b>PHP<
 But I also know <b>C</b> and <b>VB.NET</b>.
 
 I rarely use github but sometimes I stop by to update my status on stuff.<br>
-You are free to explore my profile or my social media.<br><br>
+You are free to explore my profile and my social media.<br><br>
 
 That's it for now,<br>
 Have a good one!
